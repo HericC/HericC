@@ -39,6 +39,8 @@ I am fascinated by programming and its logic, learning new things and delving in
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=CodeIgniter)
 
 <details>
   <summary> <b>:octocat: Vizualizar status do github </b> <i>(Clique aqui para expandir)</i> </summary>
