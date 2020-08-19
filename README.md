@@ -31,6 +31,7 @@ I am fascinated by programming and its logic, learning new things and delving in
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![java](https://img.shields.io/badge/-Java-800000?style=flat-square&logo=java)
 
