@@ -1,7 +1,6 @@
 # :man_technologist: Heric Macedo Oliveira Silva
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/HericC)](https://github.com/HericC)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575991243530&text=Olá!)](https://api.whatsapp.com/send?phone=5575991243530&text=Olá!)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:heric_commercial@hotmail.com)](mailto:heric_commercial@hotmail.com)
 
 ## Hello World!
