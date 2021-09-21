@@ -25,6 +25,7 @@ Sou fascinado por lógica e programação, aprendendo coisas novas e me aprofund
 ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=CodeIgniter)
 
